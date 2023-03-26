@@ -5,4 +5,5 @@
 - Storyboard
 - View Code
 - Core Data
+- MVC
 
